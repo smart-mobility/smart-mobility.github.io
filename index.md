@@ -1,6 +1,10 @@
 ## List of plots
 
 ----------------------------------------------------------------------------------------------------------------------------------
+* Chart A, Numb. of mobility devices: Mobility services around a parking area for different timeslots, for a fixed value of 400m of the searching radius. The abscissa indicates the different timeslots of a day while on the ordinate the mobility availability of bus stops (in blue), of carsharing areas (in green) and of bikesharing dock (in red) from the parking area found for different timeslots (taken at the beginning of each hour). In black the average values.
+* Chart B, Numb. of mobility services: Mobility services around a parking area for different values of the searching radius. The abscissa indicates the different values of the radius. On the ordinate the numbers of bus stops (in blue), of carsharing areas (in green) and of bikesharing dock (in red) found for different values of the searching radius.
+* Chart C, Numb. of mobility devices: Mobility services around a parking area for different values of the searching radius. The abscissa indicates the different values of the radius. On the ordinate the maximum mobility availability of the parking area. In black the average values.
+
 ### Piazza palazzo
 ![Image of piazza_palazzo](https://github.com/smart-mobility/smart-mobility.github.io/raw/master/piazza_palazzo/piazza_palazzo_time.png)
 ![Image of piazza_palazzo](https://github.com/smart-mobility/smart-mobility.github.io/raw/master/piazza_palazzo/piazza_palazzo.png)
